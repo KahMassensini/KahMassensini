@@ -5,7 +5,7 @@ I'm Karinne. 👋
 
 👨‍💻 Assoc, Full-Stack Developer at Avanade Brazil
 <br>🐶 Mother of two dogs</br>
-🎓 Studying Computer Engineering</br>
+🎓 Studyinndo  Analysis and Systems Development </br>
 💻 Technical in the development of systems</br>
 😋 Pizza is the food of life.</br>
 🎮 Games: A little bit of everything.
