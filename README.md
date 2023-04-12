@@ -3,7 +3,7 @@
 I'm Karinne. 👋
 
 
-👨‍💻 Sr. Assoc, BackEnd Developer at Avanade Brazil.
+👨‍💻 Sr Assoc, Back-End Developer at Avanade Brazil.
 <br>🐶 Mother of two dogs</br>
 🎓 Studyinndo  Analysis and Systems Development </br>
 💻 Technical in the development of systems</br>
