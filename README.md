@@ -1,54 +1,73 @@
-## 👋 Hello, I'm Karinne Pereira
-
-💻 Software Analyst and Developer with experience in enterprise systems, automation, databases and QA.  
-🎓 Degree in Analysis and Systems Development (PUC Minas).  
-⚛️ Currently focused on Frontend development with React.  
-🐶 Dog mom | 🍕 Pizza lover | 🎮 Casual gamer  
-😄 Pronouns: she/her  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1200&color=2F80ED&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Karinne+Pereira;Software+Analyst+and+Developer;React+%7C+TypeScript+%7C+C%23+%7C+SQL" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 👩‍💻 About Me
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+I'm a Software Analyst and Developer with experience in enterprise systems, automation, databases and QA.  
+I have a degree in Analysis and Systems Development from PUC Minas and a technical background from SENAI.
 
-**Backend & Database:**  
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
-![.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dotnet)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
-![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)
+Currently, I'm focusing on Frontend development with React and TypeScript, while leveraging my experience with C#, SQL.
 
-**Tools & Workflow:**  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)
-![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)
-![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code)
+I enjoy solving real-world problems, improving system reliability and building clean, scalable solutions.  
+Always learning, always curious.
+
+🌍 Based in Brazil  
 
 ---
 
-## 📫 Contact Me
+## ⚙️ Tech Stack
+
+**Frontend**  
+- React  
+- TypeScript  
+- JavaScript  
+- HTML5  
+- CSS3  
+
+**Backend & Database**  
+- C#  
+- ASP.NET  
+- SQL  
+- Oracle  
+- PL/SQL  
+
+**Tools & Workflow**  
+- Git & GitHub  
+- Jira & Confluence  
+- Scrum & Kanban  
+
+---
+
+<!--## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default&hide_border=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=default&hide_border=true" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- Libertese Project  
+  https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e5-proj-empext-t1-libertese  
+
+- DecorArqui Project  
+  https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-decorarqui  
+
+--- -->
+
+## 📫 Contact
+
 - LinkedIn: https://www.linkedin.com/in/karinne-massensini  
 - Email: karinneamp22@gmail.com  
 
 
 
-<!--
-**KahMassensini/KahMassensini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
