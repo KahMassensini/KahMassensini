@@ -1,32 +1,40 @@
-### Hello World🌎
+## 👋 Hello, I'm Karinne Pereira
 
-I'm Karinne. 👋
+💻 Software Analyst and Developer with experience in enterprise systems, automation, databases and QA.  
+🎓 Degree in Analysis and Systems Development (PUC Minas).  
+⚛️ Currently focused on Frontend development with React.  
+🐶 Dog mom | 🍕 Pizza lover | 🎮 Casual gamer  
+😄 Pronouns: she/her  
 
+---
 
-👨‍💻 Sr Assoc, Back-End Developer at Avanade Brazil.
-<br>🐶 Mother of two dogs</br>
-🎓 Studyinndo  Analysis and Systems Development </br>
-💻 Technical in the development of systems</br>
-😋 Pizza is the food of life.</br>
-🎮 Games: A little bit of everything.
-<br>😄 Pronouns: she/her</br>
-⚡ If you have a tip, please contact.
+## 🚀 Tech Stack
 
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 
-### 🚀 Skills
+**Backend & Database:**  
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
+![.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dotnet)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)
 
+**Tools & Workflow:**  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)
+![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)
+![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C%23%20-05122A?style=flat&logo=c-sharp)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+---
 
+## 📫 Contact Me
+- LinkedIn: https://www.linkedin.com/in/karinne-massensini  
+- Email: karinneamp22@gmail.com  
 
 
 
